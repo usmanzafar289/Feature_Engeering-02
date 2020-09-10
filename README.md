@@ -8,11 +8,13 @@ https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data/data
 
 Dataset has other columns and you need to examine price column and do following. 
 
-###(1) Plot histogram to see data distribution.
+### (1) Plot histogram to see data distribution.
 
-###(2) Remove outliers using percentile technique. Use [0.001, 0.999] for lower and upper bound percentiles
-###(3)  After removing outliers in step 2, you get a new dataframe. 
-###(4) You can plot histogram for new dataframe that is generated after step (3). Also plot bell curve on same histogram.
+### (2) Remove outliers using percentile technique. Use [0.001, 0.999] for lower and upper bound percentiles
 
-Your goal is to come up with new dataframe that doesn't have the outliers present in it.
+### (3)  After removing outliers in step 2, you get a new dataframe. 
+
+### (4) You can plot histogram for new dataframe that is generated after step (3). Also plot bell curve on same histogram.
+
+Your goal is to come up with new dataframe that doesn't have the outliers present in it. All the steps are same as described in example one, Only difference is here we have more data in a dataset and you can practice and play around with different fields of the data set.
 
